@@ -1,0 +1,4 @@
+input_video_path: "videos/20240318_092055.mp4" # videos/20240318_092055.mp4
+output_video_path: output/detected.mp4
+task_type: "speed_estimation" # "object_detection", "object_tracking", "speed_estimation"
+model_name: yolov8m.pt # yolov8s.pt, yolov8n.pt
